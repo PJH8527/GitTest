@@ -15,5 +15,6 @@ namespace WpfApplication1
         //public int c { get; set; }
         //public int d { get; set; }
         public int e { get; set; }
+        public int a { get; set; }
     }
 }
