@@ -10,5 +10,6 @@ namespace WpfApplication1
         public int No { get; set; }
         public string Name { get; set; }
         public DateTime DateTime { get; set; }
+        public int a { get; set; }
     }
 }
