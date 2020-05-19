@@ -5,7 +5,8 @@ using System.Text;
 
 namespace WpfApplication1
 {
-    class Config
+    public class Config
     {
+        public int No { get; set; }
     }
 }
