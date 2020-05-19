@@ -8,5 +8,6 @@ namespace WpfApplication1
     public class Config
     {
         public int No { get; set; }
+        public string Name { get; set; }
     }
 }
