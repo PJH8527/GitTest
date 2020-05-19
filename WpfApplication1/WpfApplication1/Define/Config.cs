@@ -11,10 +11,8 @@ namespace WpfApplication1
         public string Name { get; set; }
         public DateTime DateTime { get; set; }
         public int a { get; set; }
-<<<<<<< HEAD
         public int b { get; set; }
-=======
         public int c { get; set; }
->>>>>>> Test2
+        public int d { get; set; }
     }
 }
