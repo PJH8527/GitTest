@@ -11,5 +11,6 @@ namespace WpfApplication1
         public string Name { get; set; }
         public DateTime DateTime { get; set; }
         public int a { get; set; }
+        public int b { get; set; }
     }
 }
