@@ -9,5 +9,6 @@
         <TextBox Height="23" HorizontalAlignment="Left" Margin="28,168,0,0" Name="textBox1" VerticalAlignment="Top" Width="120" Text="TEST" />
         <Label Content="MAIN" Height="28" HorizontalAlignment="Left" Margin="12,297,0,0" Name="label1" VerticalAlignment="Top" Width="252" />
         <Ellipse Height="152" HorizontalAlignment="Left" Margin="184,31,0,0" Name="ellipse1" Stroke="Black" VerticalAlignment="Top" Width="164" />
+        <Rectangle Height="93" HorizontalAlignment="Left" Margin="184,207,0,0" Name="rectangle1" Stroke="Black" VerticalAlignment="Top" Width="131" />
     </Grid>
 </Window>
