@@ -10,6 +10,5 @@
         <Label Content="MAIN" Height="28" HorizontalAlignment="Left" Margin="12,297,0,0" Name="label1" VerticalAlignment="Top" Width="252" />
         <Ellipse Height="152" HorizontalAlignment="Left" Margin="184,31,0,0" Name="ellipse1" Stroke="Black" VerticalAlignment="Top" Width="164" />
         <Rectangle Height="93" HorizontalAlignment="Left" Margin="184,207,0,0" Name="rectangle1" Stroke="Black" VerticalAlignment="Top" Width="131" />
-        <Ellipse Height="108" HorizontalAlignment="Left" Margin="414,64,0,0" Name="ellipse2" Stroke="Black" VerticalAlignment="Top" Width="100" />
     </Grid>
 </Window>
